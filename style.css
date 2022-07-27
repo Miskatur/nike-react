@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-color {
+    background-color: #3D4FF3;
+}
+
+.button-color:hover {
+    background-color: #FA804C;
+}
+
+.bg-top {
+    background-color: #FFF9F4;
+}
+
+.color-orange {
+    background-color: #FA804C;
+}
+
+.font-large {
+    font-size: 200%;
+}
+
+.blue {
+    color: #363958;
+
+}
+
+.orange {
+    color: #FA804C;
+}
+
+.bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.bg-gray {
+    background-color: #F1F1F1;
+}
